@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/* .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .flex-container> div {
+    flex-direction: column;
+  } */
+
+  .half-width{
+    width: 48%;
+    margin-left: 2%;
+    display: inline-block;
+  }
+  .title-text{
+    font-size: 60px;
+  }
