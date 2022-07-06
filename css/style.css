@@ -15,5 +15,26 @@ body{
     display: inline-block;
   }
   .title-text{
-    font-size: 60px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 78px;
+letter-spacing: -0.02em;
+color: #575757;
   }
+.hero-box{
+    margin-left: 100px;
+}
+/* Skip The Diet, Just Eat Healthy With Food Network */
+.spcolor{
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+/* gradient */
+
+
